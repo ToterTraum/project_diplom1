@@ -1,4 +1,4 @@
-28_modul
+
 
 Финальный тестовый проект SkillFactory курса QAP
 
