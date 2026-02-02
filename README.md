@@ -4,7 +4,7 @@
 
 Автоматизированное тестирование UI сайта: https://b2c.passport.rt.ru с использованием PyTest и Selenium.
 
-1)Тест-кейсы по ссылке: https://docs.google.com/spreadsheets/d/1mZbO4dt5TYBVIShWYlsn9doE96AQO6sTJDTq8Hw171g/edit?usp=share_link
+1)Тест-кейсы по ссылке: https://docs.google.com/spreadsheets/d/1FEWzotF8z84LW222ARz3MuFYnbCXLIlyGNbb16Y7NyU/edit?gid=0#gid=0
 
 2)Проект выполнен с использованием шаблона PageObject, Selenium и PyTest (Python)
 
